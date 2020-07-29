@@ -1,4 +1,4 @@
-#Component
+# Component
 
 Component는 Vue js에서 핵심적인 영역으로 **재사용 가능한** 객체를 만드는데 이용된다고 볼 수 있다.
 기본적으로는 Vue Instance 와 동일한 속성을 지닌다. (methods, computed 등 사용가능..)

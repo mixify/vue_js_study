@@ -1,4 +1,4 @@
-#Event Handling
+# Event Handling
 
 v-on directive를 사용하면 JavaScript 의 이벤트에 대해서 작동하는 listener 나 로직을 등록할 수 있다.
 v-on directive를 사용하지 않고도 *@event* 로 좀더 간결하게 표현 가능하다. 
